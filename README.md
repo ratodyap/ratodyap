@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ratodyap
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science/ analyst , Data Engineering roless
 - 🌱 I’m currently learning python, Aws, Machine Learning and Deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email on ratuparmar3197@gmail.com
